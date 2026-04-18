@@ -1,5 +1,5 @@
 # TDHOT21
-A Multi tool For the Black Hats Out there. 
+A Multi tool For the Hackers Out there. 
 
 TDHOT21 Is a open source Project that a Skilled White hatter made. 
 though this tool was made ethically, it has skinner tools and dos ddos and **MUCH** more tools.
